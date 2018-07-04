@@ -1,5 +1,5 @@
 <template>
-      <footer class="main-footer">
+      <footer class="main-footer footerr">
         <div class="pull-right hidden-xs">
         <b>Version</b> 2.4.0
         </div>
@@ -7,3 +7,6 @@
         reserved.
     </footer>
 </template>
+<style>
+</style>
+
