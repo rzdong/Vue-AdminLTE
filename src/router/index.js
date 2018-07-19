@@ -65,10 +65,10 @@ var router = new Router({
       name: 'HelloWorld',
       component: HelloWorld
     },
-    // { 
-    //   path: '*',
-    //   redirect: '/login' 
-    // }
+    { 
+      path: '/',
+      redirect: '/login' 
+    }
   ]
 })
 

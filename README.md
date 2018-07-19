@@ -16,7 +16,7 @@ npm run dev
 ## 目录结构
 
 *  src
-    *  assets
+    *  assets         资源文件
     *  components
         *  common     公共组件
         *  content    内容文件夹
@@ -28,3 +28,8 @@ npm run dev
         *  Data.js    全局数据存储位置
     *  router
         *  router.js  路由
+
+
+## 其他好看的UI
+http://ace.jeka.by/index.html
+
