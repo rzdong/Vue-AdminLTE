@@ -30,13 +30,18 @@ npm run dev
         *  router.js  路由
 
 
+# 注意
+2019-06-19 更新  这个项目模板已经不适合用作开发。
+正在更新 基于 ant-design-vue 的开发模板 -> https://github.com/Easte-r/vue-antd
+
+
+
 ## 其他好看的UI
 http://ace.jeka.by/index.html
 
 http://www.h-ui.net/H-ui.admin.shtml
 
 https://vue.ant.design/docs/vue/introduce-cn/    ant-design 蚂蚁金服出品，个人感觉很不错，配合vue-cli3使用
-
 
 ## 界面
 ![登陆](./login.png)
